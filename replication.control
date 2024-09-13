@@ -1,0 +1,5 @@
+# replication.control
+comment = 'Extension to set up PostgreSQL replication using C'
+default_version = '1.0'
+relocatable = false
+module_pathname = 'replication'
